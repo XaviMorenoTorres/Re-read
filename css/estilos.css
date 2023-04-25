@@ -79,3 +79,51 @@ nav li:hover{
     color: white;
     background-color: orange;
 }
+.libros{
+    margin-top: -200px;
+}
+.text{
+    text-align: center;
+}
+.la{
+    font-size: 0.5rem;
+}
+@media screen and (max-width: 700px){
+    .column-100{
+        margin-left:10px;
+        margin-right: 10px;
+    }
+    .column-65{
+        width: 100%;
+    }
+    .pad{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .column-35{
+        width: 100%;
+        margin-right: 25px;
+    }
+    li{
+        width: 100%;
+    }
+    .lol{
+        width: 570px;
+    }
+    .column-33{
+        width: 100%;
+        text-align: center;
+    }
+    .column-35-1{
+        width: 100%;
+    }
+    .pad{
+        margin-left: 0px;
+    }
+    .libros{
+        margin-top: 0px;
+    }
+    .menu{
+        margin-top: 0px;
+    }
+    }
